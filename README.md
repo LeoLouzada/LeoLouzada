@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Leonardo Louzada and I study Software Engineering at Catholic University of Brasília, where I am currently studying the 5th semester!</p>
+<p align="left">My name is Leonardo Louzada and I study Software Engineering at Catholic University of Brasília, where I am currently studying the 4th semester!</p>
 
 ###
 
